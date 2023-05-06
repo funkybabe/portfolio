@@ -1,0 +1,39 @@
+body{
+
+  background-color: bisque;
+
+  font-family: Verdana,Tahoma, sans-serif;
+}
+html{
+   font-size: 62.5%;
+}
+.container {
+ justify-content: center;   
+}
+.locate {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+.loreme {
+    margin-top: 25rem;
+    font-size: 20px;
+    margin-right: 20rem;
+    line-height: 5rem;
+    
+}
+.ladyimages{
+    margin-top: 15rem;
+    margin-right: 10rem;
+}
+.content {
+    
+    display: flex;
+    justify-content: space-between;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
